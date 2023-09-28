@@ -16,8 +16,11 @@ Links to the API documentation:
 - Wikipedia API: https://en.wikipedia.org/api/rest_v1/
 - World news fetcher (any language): https://worldnewsapi.com/
 
-Example API call (obtaining first paragraph of the French Wikipedia page of Albert Einstein):
+Example API calls:
 ![image](https://github.com/manimeh/ExploringAPIs/assets/64325373/ebdfbaa2-9aa2-44e8-ae15-f7dad164e580)
+![image](https://github.com/manimeh/ExploringAPIs/assets/64325373/a8ef7f1e-337b-4a9b-863d-aee677f6a4ab)
+![image](https://github.com/manimeh/ExploringAPIs/assets/64325373/54150984-c8d7-4cb0-bffc-aa5081b21c42)
+
 
 ## Technical problems:
 One of the major technical problems involves the ChatGPT API. The response to these API calls will be raw text which we will need to parse in order to feed it into the user interface.
