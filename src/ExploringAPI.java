@@ -15,7 +15,7 @@ public class ExploringAPI
     public static void main(String[] args)
     {
         News news = getNews("fr");
-        System.out.printf("News Article:\nTitle:%s\nText%s\n", news.getTitle(), news.getText());
+        System.out.printf("News Article:\nTitle: %s\nText: %s\n", news.getTitle(), news.getText());
         System.out.print("\nQuiz:\n"
                 + getQuiz(2, "beginner", "English", news.getText()));
     }
