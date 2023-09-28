@@ -9,12 +9,12 @@ We plan on ensuring that the app provides articles of varying reading difficulti
 We plan to make use of several APIs in the development of this project. In particular, we plan on using an API to access news articles or wikipedia pages in foreign languages. In order to gauge the difficulty of the reading, we plan on using an API to calculate a numerical value of how readable the text is. In order to create the quiz, the text will be passed into a ChatGPT API, which will create multiple choice questions and assign each of them an answer.
 
 Links to the API documentation:
-APIs for calculating reading difficulty:
-https://readable.com/features/api/
-https://api.seoreviewtools.com/documentation/readability-score-api/
-AI API (for quiz creation): https://nova-oss.com/
-Wikipedia API: https://en.wikipedia.org/api/rest_v1/
-World news fetcher (any language): https://worldnewsapi.com/
+- APIs for calculating reading difficulty:
+  - https://readable.com/features/api/
+  - https://api.seoreviewtools.com/documentation/readability-score-api/
+- AI API (for quiz creation): https://nova-oss.com/
+- Wikipedia API: https://en.wikipedia.org/api/rest_v1/
+- World news fetcher (any language): https://worldnewsapi.com/
 
 Example API call (obtaining first paragraph of the French Wikipedia page of Albert Einstein):
 ![image](https://github.com/manimeh/ExploringAPIs/assets/64325373/ebdfbaa2-9aa2-44e8-ae15-f7dad164e580)
