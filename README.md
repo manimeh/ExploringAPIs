@@ -22,7 +22,8 @@ Links to the API documentation:
 Example API calls:
 ![image](https://github.com/manimeh/ExploringAPIs/assets/64325373/ebdfbaa2-9aa2-44e8-ae15-f7dad164e580)
 ![image](https://github.com/manimeh/ExploringAPIs/assets/64325373/a8ef7f1e-337b-4a9b-863d-aee677f6a4ab)
-![image](https://github.com/manimeh/ExploringAPIs/assets/64325373/54150984-c8d7-4cb0-bffc-aa5081b21c42)
+![image](https://github.com/manimeh/ExploringAPIs/assets/64325373/f48f98a9-c348-4d3e-b89b-6aaffb9bff00)
+
 
 Example output of the Java code:
 ```java
