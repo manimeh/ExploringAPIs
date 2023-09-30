@@ -1,4 +1,4 @@
-package APIObjects;
+package GsonClasses;
 
 public class NewsResponse {
     private News[] news;

@@ -1,4 +1,4 @@
-package APIObjects;
+package GsonClasses;
 
 public class AnswerChoice {
     private ChatMessage message;
