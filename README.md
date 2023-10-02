@@ -52,5 +52,4 @@ Quiz:
 
 
 ## Technical problems:
-One of the major technical problems involves the ChatGPT API. The response to these API calls will be raw text which we will need to parse in order to feed it into the user interface.
-Similarly, if we choose to use Wikipedia as one of the sources for the texts, we will need to filter out the HTML so that only raw text is fed into the user interface.
+One of the major technical problems involves the OpenAI API. Nova-OSS is quite slow, meaning that there is a large delay between sending the request and receiving the response. To counteract this, the user interface will probably need to have a loading screen, or prevent the user from seeing the questions until the response is received. Also, if we choose to use Wikipedia as one of the sources for the texts, we will need to filter out the HTML in the response of the Wikipedia API calls so that only the raw text is fed into the user interface.
